@@ -1,2 +1,2 @@
 # ArduinoGaragePort
-School project demonstrating intermediate arduino knowledge
+School project demonstrating basic arduino knowledge
